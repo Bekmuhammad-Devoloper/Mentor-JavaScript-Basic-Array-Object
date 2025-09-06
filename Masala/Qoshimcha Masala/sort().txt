@@ -1,0 +1,30 @@
+// sort()
+
+// 1-misol  --Sonlarni tartiblash (Oson)
+Massivni o‘sish tartibida saralash.
+const numbers = [4, 1, 7, 3, 9];
+
+
+// 2-misol  --Eng katta sonni topish (O'rta daraja)
+Massiv ichidagi eng katta sonni topamiz.
+
+const numbers = [4, 9, 2, 15, 7];
+
+
+// 3-misol  --So‘zlarni alifbo bo‘yicha saralash (O‘rta daraja)
+Massiv ichidagi so‘zlarni bo‘sh joy bilan birlashtirish.
+const words = ["reduce", "metodi", "foydali"];
+
+// 4-misol  --Obyektlar bo‘yicha saralash (Murakkab)
+Foydalanuvchilar ro‘yxatini yosh bo‘yicha o‘sish tartibida saralash.
+const users = [
+  { name: "Ali", age: 25 },
+  { name: "Bek", age: 19 },
+  { name: "Omar", age: 30 }
+];
+
+// 5-misol  --So‘zlarni uzunligi bo‘yicha saralash (Qiyin)
+Matnlarni uzunligi bo‘yicha o‘sish tartibida saralash.
+
+const words = ["qalam", "kitob", "dastur", "A", "JavaScript"];
+

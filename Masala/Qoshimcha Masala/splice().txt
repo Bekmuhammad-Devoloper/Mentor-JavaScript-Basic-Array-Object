@@ -1,0 +1,23 @@
+// splice()
+
+// 1-misol  --Massivdan elementlarni o‘chirish (Oson)
+const arr = [10, 20, 30, 40, 50];
+
+
+// 2-misol  --Massivga element qo‘shish
+const numbers = [1, 2, 4, 5];
+
+
+
+// 3-misol  --Elementni almashtirish
+const fruits = ["olma", "banan", "nok"];
+
+
+// 4-misol  --Massivdan ma’lum qismni kesib olish
+const arr = [1, 2, 3, 4, 5];
+
+
+// 5-misol  --splice() va slice() farqini tushunish (Qiyin)
+
+const arr = [100, 200, 300, 400, 500];
+

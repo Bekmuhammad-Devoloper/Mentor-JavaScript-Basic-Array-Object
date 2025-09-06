@@ -1,0 +1,54 @@
+//filter()
+
+
+// 1-misol  --Toq sonlarni ajratish
+[1, 2, 3, 4,5, 6] massivining faqat toq sonlarini ajratib oling.
+
+
+
+
+// 2-misol --Musbat sonlarni ajratish
+[-5, 3, -2, 8, 0, -1] massivining faqat musbat sonlarini ajratib oling.
+
+
+
+
+// 3-misol  --80 dan yuqori ball olgan talabalarni ajratish
+const talabalar = [
+    { ism: "Ali", ball: 85 },
+    { ism: "Bek", ball: 70 },
+    { ism: "Sanjar", ball: 90 }
+];
+
+
+
+// 4-misol  --["salom", "olma", "kitob", "a", "maktab"] massivining faqat 4 ta harfdan uzun so‘zlarini ajratib oling.
+["salom", "olma", "kitob", "a", "maktab"] massivining faqat 4 ta harfdan uzun so‘zlarini ajratib oling.
+const sozlar = ["salom", "olma", "kitob", "a", "maktab"];
+
+
+
+
+// 5-misol  --Rost (true) qiymatlarni ajratish
+[true, false, true, false, true] massivining faqat rost (true) bo‘lganlarini qoldiring.
+const qiymatlar = [true, false, true, false, true];
+
+
+
+
+// 6-misol --Ma’lum yoshdan katta odamlardan ro‘yxat tuzish
+Quyidagi odamlar ro‘yxatidan 20 yoshdan katta bo‘lganlarni ajratib oling.
+const odamlar = [
+    { ism: "Ali", yosh: 18 },
+    { ism: "Bek", yosh: 25 },
+    { ism: "Sanjar", yosh: 22 }
+];
+
+
+
+// 7-misol  --Bo‘sh bo‘lmagan elementlarni ajratish (falsy qiymatlarni chiqarib tashlash)
+[0, "salom", "", false, "dunyo", null, 42] massivining faqat bo‘sh bo‘lmagan elementlarini qoldiring.
+
+const elementlar = [0, "salom", "", false, "dunyo", null, 42];
+
+

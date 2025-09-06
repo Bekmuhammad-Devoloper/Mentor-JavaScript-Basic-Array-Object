@@ -1,0 +1,77 @@
+// map()
+
+// 1-misol --Oddiy massivni boshqa massivga nusxalash
+Berilgan sonlar massivining nusxasini yaratish.
+
+const sonlar = [1, 2, 3, 4, 5];
+
+
+// 2-misol  --Har bir songa 1 qo‘shish
+[1, 2, 3] sonlariga 1 qo‘shib, yangi massiv hosil qiling.
+
+
+// 3-misol  --Har bir songa 2 barobar oshirish
+[2, 4, 6] massivining har bir elementini 2 barobar kattalashtiring.
+
+
+// 4-misol  --Har bir elementni kvadratga oshirish
+Berilgan massivning har bir elementini kvadratga oshiruvchi yangi massiv hosil qiling.
+
+const sonlar = [2, 3, 4, 5];
+
+
+// 5-misol  --Ismlar bosh harflarini katta qilish
+Berilgan ismlar massivining har bir elementining bosh harfini katta qilib, yangi massiv hosil qiling.
+
+
+// 6-misol  --Sonlarni satr ko‘rinishida chiqarish
+[1, 2, 3] massivini "1-son", "2-son", "3-son" kabi matnga aylantiring.
+
+
+// 7-misol  --Boolean qiymatlarni o‘zgartirish
+[true, false, true] massivining har bir elementini teskarisiga o‘zgartiring.
+
+
+// 8-misol  --Talabalar ballariga bonus qo‘shish
+Berilgan talabalar ballari massivining har bir elementiga 10 ball qo‘shib, yangi massiv qaytaring.
+
+const ballar = [60, 70, 80, 90];
+
+// 9-misol  --Obyektlardan faqat ma’lumot olish
+Quyidagi massivdan faqat ismlarni ajratib oling.
+const talabalar = [
+    { ism: "Ali", ball: 85 },
+    { ism: "Bek", ball: 90 },
+    { ism: "Sanjar", ball: 78 }
+];
+
+// 10-misol  --Ob'ektlar ichidagi qiymatlarni o‘zgartirish
+Har bir talabani balliga 10 ball qo‘shib, yangi obyekt hosil qiling.
+const talabalar = [
+    { ism: "Ali", ball: 85 },
+    { ism: "Bek", ball: 90 },
+    { ism: "Sanjar", ball: 78 }
+];
+
+// 11-misol  --ID bilan yangi obyekt yaratish
+Talabalar ro‘yxatiga ID qo‘shing.
+const talabalar = ["Ali", "Bek", "Sanjar"];
+
+
+// 12-misol  --Talabalar obyektidagi faqat ism va ballarni olish
+Berilgan talabalar obyektlar massivining har bir elementidan faqat ism va ball qismini ajratib olish.
+
+const talabalar = [
+    { id: 1, ism: "Ali", yosh: 20, ball: 85 },
+    { id: 2, ism: "Bek", yosh: 22, ball: 90 },
+    { id: 3, ism: "Sanjar", yosh: 21, ball: 78 }
+];
+
+
+// 13-misol  --Murakkab obyektlar bilan ishlash
+Quyidagi talabalar massivida balli 80 dan yuqori bo‘lganlarga "a’lochi" degan maydon qo‘shing.
+const talabalar = [
+    { ism: "Ali", ball: 85 },
+    { ism: "Bek", ball: 90 },
+    { ism: "Sanjar", ball: 78 }
+];

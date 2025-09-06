@@ -1,0 +1,33 @@
+// sort()
+
+// 1-misol  --Massiv ichidan ma'lum bir qiymatning indeksini topish (Oson)
+const numbers = [10, 20, 30, 40, 50];
+
+
+// 2-misol  --Ma’lum shartga mos keladigan elementni topish (O‘rta daraja)
+const numbers = [5, 12, 8, 130, 44];
+
+
+// 3-misol  --Obyektlar ichidan shartga mos keladigan elementni topish (O‘rta daraja)
+const users = [
+  { name: "Ali", age: 25 },
+  { name: "Bek", age: 19 },
+  { name: "Omar", age: 30 }
+];
+
+// 4-misol  --Agar element topilmasa (Murakkab)
+const users = [
+  { id: 1, name: "Ali" },
+  { id: 2, name: "Bek" },
+  { id: 3, name: "Omar" }
+];
+
+
+
+// 5-misol  --Foydalanuvchini ismiga qarab topish (Qiyin)
+const users = [
+  { id: 1, name: "Ali" },
+  { id: 2, name: "Bek" },
+  { id: 3, name: "Omar" }
+];
+

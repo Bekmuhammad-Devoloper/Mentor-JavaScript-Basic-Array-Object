@@ -1,0 +1,29 @@
+// 1-misol  --Oddiy yig‘indi (Oson)
+Massivdagi barcha sonlarni qo‘shish.
+
+const numbers = [1, 2, 3, 4, 5];
+
+// 2-misol  --Eng katta sonni topish (O'rta daraja)
+Massiv ichidagi eng katta sonni topamiz.
+
+const numbers = [4, 9, 2, 15, 7];
+
+
+// 3-misol  --So‘zlarni bitta gapga aylantirish (O'rta daraja)
+Massiv ichidagi so‘zlarni bo‘sh joy bilan birlashtirish.
+const words = ["reduce", "metodi", "foydali"];
+
+// 4-misol  --Massivni obyektga o‘zgartirish (Qiyin)
+Massivni key-value obyektiga aylantirish.
+
+const users = [
+  { id: 1, name: "Bek" },
+  { id: 2, name: "Ali" },
+  { id: 3, name: "Omar" }
+];
+
+// 5-misol  --Takrorlangan elementlarni sanash (Murakkab)
+Massivda har bir element necha marta takrorlanganini hisoblash.
+
+const items = ["apple", "banana", "apple", "orange", "banana", "apple"];
+

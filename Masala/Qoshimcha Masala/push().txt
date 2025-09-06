@@ -1,0 +1,21 @@
+// push()
+
+// 1-misol  --Massivga bitta element qo‘shish (Oson)
+const fruits = ["olma", "banan"];
+
+
+// 2-misol  --Bir nechta element qo‘shish (O‘rta daraja)
+const numbers = [1, 2, 3];
+
+
+// 3-misol  --qaytaradigan qiymatdan foydalanish (O‘rta daraja)
+const names = ["Ali", "Bek"];
+
+
+// 4-misol  --Obyektlarni massivga qo‘shish (Murakkab)
+Foydalanuvchilar ro‘yxatini yosh bo‘yicha o‘sish tartibida saralash.
+const users = [{ name: "Ali" }, { name: "Bek" }];
+
+
+
+

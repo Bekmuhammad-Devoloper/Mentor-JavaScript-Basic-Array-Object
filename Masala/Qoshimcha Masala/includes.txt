@@ -1,0 +1,26 @@
+// includes()
+
+// 1-misol  --Massiv ichida ma’lum bir element borligini tekshirish (Oson)
+const fruits = ["olma", "banan", "shaftoli"];
+
+
+// 2-misol  --Sonlar massivida qidirish
+const numbers = [10, 20, 30, 40, 50];
+
+
+
+// 3-misol  --String ichida so‘z borligini tekshirish
+const text = "Bugun havo juda chiroyli";
+
+
+// 4-misol  --includes() va indexOf() farqini tushunish
+const colors = ["qizil", "yashil", "ko‘k"];
+
+
+// 5-misol  --includes() ni some() bilan solishtirish (Qiyin)
+
+const users = [
+  { name: "Bek", age: 18 },
+  { name: "Ali", age: 22 },
+  { name: "Zokir", age: 25 }
+];

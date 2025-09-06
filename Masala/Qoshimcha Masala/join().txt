@@ -1,0 +1,26 @@
+// join()
+
+// 1-misol  --Massivni stringga aylantirish (Oson)
+const fruits = ["olma", "banan", "shaftoli"];
+// "olma, banan, shaftoli"
+
+// 2-misol  --So‘z ichidagi harflarni birlashtirish
+const letters = ["H", "e", "l", "l", "o"];
+// "Hello"
+
+
+// 3-misol  --Sanani formatlash
+const dateArray = ["2025", "03", "13"];
+"2025/03/13"
+
+// 4-misol  --split() va join() yordamida stringni o‘zgartirish
+const sentence = "Bugun havo juda chiroyli";
+// "Bugun-havo-juda-chiroyli"
+
+// 5-misol  --Kodni optimallashtirish (map() bilan) (Qiyin)
+const users = [
+  { id: 1, name: "Bek" },
+  { id: 2, name: "Ali" },
+  { id: 3, name: "Zokir" }
+];
+// "Bek, Ali, Zokir"

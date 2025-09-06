@@ -1,0 +1,24 @@
+// slice()
+
+// 1-misol  --Massivdan ma’lum elementlarni olish (Oson)
+const arr = [10, 20, 30, 40, 50];
+
+
+// 2-misol  --Massivning oxiridan elementlarni olish
+const numbers = [1, 2, 3, 4, 5];
+
+
+
+// 3-misol  --Stringda slice() ishlatish
+const text = "JavaScript";
+const part = text.slice(4, 10);
+
+// 4-misol  --Massiv nusxasini olish (slice() bilan copy)
+Foydalanuvchilar ro‘yxatini yosh bo‘yicha o‘sish tartibida saralash.
+const arr = [1, 2, 3, 4];
+const copiedArr = arr.slice();
+
+// 5-misol  --slice() va splice() farqini tushunish (Qiyin)
+
+const arr = [10, 20, 30, 40, 50];
+

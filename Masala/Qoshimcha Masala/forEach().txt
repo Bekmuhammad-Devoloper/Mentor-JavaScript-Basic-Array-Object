@@ -1,0 +1,32 @@
+// forEach()
+
+// 1-misol  --Sonlarni kvadratga oshirish (Oson)
+Berilgan sonlar massivining har bir elementini kvadratga oshirib yangi massiv hosil qiling.
+const numbers = [2, 5, 8, 3, 10];
+
+
+
+// 2-misol  --Eng uzun so‘zni topish (O‘rta daraja)
+Berilgan so‘zlar massivida eng uzun so‘zni toping va uni ekranga chiqaring.
+const words = ["olma", "banan", "anjir", "shaftoli", "nok"];
+
+
+// 3-misol  --Sonlarning o‘rtacha qiymatini topish (O‘rta daraja)
+Berilgan sonlar massivining o‘rtacha qiymatini hisoblang.
+
+const numbers = [10, 15, 20, 25, 30];
+
+// 4-misol  --Foydalanuvchilar ro‘yxatini chiqarish (Murakkab)
+Berilgan foydalanuvchilar ro‘yxatidagi har bir foydalanuvchining ismini va yoshini chiqarish.
+const users = [
+  { name: "Ali", age: 25 },
+  { name: "Bek", age: 19 },
+  { name: "Omar", age: 30 }
+];
+
+// 5-misol  --Juft va toq sonlarni ajratish (Qiyin)
+Berilgan sonlar massivini juft va toq sonlarga ajratib chiqaring.
+
+
+const numbers = [12, 7, 5, 8, 3, 10, 6];
+

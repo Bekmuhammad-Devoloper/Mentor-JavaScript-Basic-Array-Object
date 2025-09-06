@@ -1,0 +1,26 @@
+// reverse()
+
+// 1-misol  --Massivni teskari qilish (Oson)
+const numbers = [10, 20, 30, 40, 50];
+
+
+
+// 2-misol  --reverse() va string massiv
+const fruits = ["olma", "banan", "shaftoli"];
+
+
+// 3-misol  --So‘z ichidagi harflarni teskari qilish
+const text = "Bugun havo juda chiroyli";
+
+
+// 4-misol  --Sonlarni kamayish tartibida joylash
+const numbers = [5, 1, 9, 3, 7];
+
+
+// 5-misol  --Ob'ektlar massivida reverse() ishlatish (Qiyin)
+
+const users = [
+  { name: "Bek", age: 18 },
+  { name: "Ali", age: 22 },
+  { name: "Zokir", age: 25 }
+];

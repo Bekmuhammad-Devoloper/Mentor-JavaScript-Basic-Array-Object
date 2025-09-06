@@ -1,0 +1,24 @@
+// split()
+
+// 1-misol  --Matnni massivga aylantirish (Oson)
+const sentence = "Salom dunyo!";
+// ["Salom", "dunyo!"]
+
+// 2-misol  --Harflarga ajratish
+const word = "JavaScript";
+// ["J", "a", "v", "a", "S", "c", "r", "i", "p", "t"]
+
+// 3-misol  --Fayl nomini va kengaytmasini ajratish
+const fileName = "document.pdf";
+
+// ["document", "pdf"]
+
+// 4-misol  --split() va reverse() bilan so‘zni teskari qilish
+const text = "salom";
+
+// "molas"
+
+// 5-misol  --split() va map() yordamida harflarni katta qilish (Qiyin)
+  const word = "javascript";
+
+"JAVASCRIPT"
